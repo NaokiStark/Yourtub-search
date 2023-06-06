@@ -1,0 +1,12 @@
+button.btn-primary {
+  background-color: #c00 !important;
+  border-color: #c00 !important;
+}
+
+.searchbox {
+  max-width: 50vw;
+}
+
+.resultbox {
+  max-width: 50vw;
+}
